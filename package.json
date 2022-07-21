@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy1": "gh-pages -d src"
-  },
+    "deploy1": "gh-pages -d src"  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JMUT1/Async-landing.git"
